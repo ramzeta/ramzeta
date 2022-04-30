@@ -10,4 +10,4 @@ __Ramiro Perez Sanz :)__
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro13&layout=compact&theme=dracula)](https://github.com/ramiro13/github-readme-stats)
 
 
-![Minion](https://media.istockphoto.com/vectors/creation-responsive-internet-website-for-multiple-platforms-building-vector-id1058262630)
+![Minion](https://cdn.pixabay.com/photo/2019/05/03/11/40/smart-4175713_960_720.png)
