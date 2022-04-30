@@ -10,4 +10,4 @@ __Ramiro Perez Sanz :)__
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro13&layout=compact&theme=dracula)](https://github.com/ramiro13/github-readme-stats)
 
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://e1.pngegg.com/pngimages/25/249/png-clipart-cute-groot-digital-art-icon-groot.png)
