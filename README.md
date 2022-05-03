@@ -5,8 +5,8 @@ __Ramiro Perez Sanz :)__
 **Frontend javascript/typescript and react developer.** <br>
 
 # Tutitoos 👋
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=tutitoos)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/397453373479190538)
+[![Twitter]
+[![Discord]
 
 ## Habilidades
 
