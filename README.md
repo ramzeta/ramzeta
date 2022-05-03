@@ -4,11 +4,7 @@ __Ramiro Perez Sanz :)__
 # 👋 Hi!, I'm ramiro13
 **Frontend javascript/typescript and react developer.** <br>
 
-# Tutitoos 👋
-[![Twitter]
-[![Discord]
-
-## Habilidades
+## Habilidades por decir algo jaja no kapasau
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
