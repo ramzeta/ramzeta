@@ -4,9 +4,9 @@ __Ramiro Perez Sanz :)__
 # 👋 Hi!, I'm ramiro13
 **Frontend javascript/typescript and react developer.** <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiro13&show_icons=true&theme=dracula)](https://github.com/ramiro13/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzeta&show_icons=true&theme=dracula)](https://github.com/ramzeta/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiro13&layout=compact&theme=dracula)](https://github.com/ramiro13/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzeta&layout=compact&theme=dracula)](https://github.com/ramzeta/github-readme-stats)
 
 ## Habilidades por decir algo jaja no kapasau
 
