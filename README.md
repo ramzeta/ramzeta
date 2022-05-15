@@ -1,7 +1,7 @@
 ---
 __Ramiro Perez Sanz :)__
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/95281313/166742152-90c7c1f2-903a-4e3e-bc3c-0c752ac24cb5.gif" alt=" 👋 Hi!, I'm ramzeta, I'm a 🚀 Spanish  developer, I ❤️ Music">
+ 👋 Hi!, I'm ramzeta, I'm a 🚀 Spanish  developer
 </p>
 
 **Frontend javascript/typescript and react developer.** <br>
