@@ -1,5 +1,4 @@
----
-__Ramiro Perez Sanz :)__
+
 <p align="center">
  👋 Hi!, I'm ramzeta, I'm a 🚀 Spanish  developer
 </p>
