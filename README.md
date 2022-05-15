@@ -4,7 +4,6 @@ __Ramiro Perez Sanz :)__
  👋 Hi!, I'm ramzeta, I'm a 🚀 Spanish  developer
 </p>
 
-**Frontend javascript/typescript and react developer.** <br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzeta&show_icons=true&theme=dracula)](https://github.com/ramzeta/github-readme-stats)
 
