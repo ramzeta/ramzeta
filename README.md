@@ -1,7 +1,7 @@
 
-<p align="center">
+<h2 align="center">
  👋 Hi!, I'm ramzeta, I'm a 🚀 Spanish  developer
-</p>
+</h2>
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzeta&show_icons=true&theme=dracula)](https://github.com/ramzeta/github-readme-stats)
