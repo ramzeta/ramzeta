@@ -52,7 +52,3 @@
 ### Aprendiendo
 ![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
 
-
-
-
-![Minion](https://cdn.pixabay.com/photo/2019/05/03/11/40/smart-4175713_960_720.png)
