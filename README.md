@@ -4,12 +4,6 @@
 </h2>
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ramzeta&show_icons=true&theme=dracula)](https://github.com/ramzeta/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramzeta&layout=compact&theme=dracula)](https://github.com/ramzeta/github-readme-stats)
-
-## Habilidades por decir algo jaja no kapasau
-
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-2D76C0?logo=WebStorm&logoColor=white)
