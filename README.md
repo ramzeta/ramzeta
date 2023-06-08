@@ -24,6 +24,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-464647?logo=express&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/next.js-292929?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/-Angular-red)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
