@@ -26,12 +26,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### Frameworks y Librerías 
-![Deno](https://img.shields.io/badge/Deno-464647?logo=deno&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/YARN-2C8EBB?logo=yarn&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-464647?logo=express&logoColor=white)
-![Nextjs](https://img.shields.io/badge/next.js-292929?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/-Angular-red)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
