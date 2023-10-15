@@ -19,7 +19,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-FFD43B?logo=PyCharm&logoColor=white)
 
 ### Lenguajes
-![Java](https://github.com/ramzeta/ramzeta/blob/acab1cbed55bd472c3db84cdbdfdecac30c876c5/java_badge.png)
+![Java](https://github.com/ramzeta/ramzeta/blob/61b4900f9dc811b740fa200dc7fbd7372151e620/java_button.png)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
