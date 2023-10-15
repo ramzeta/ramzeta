@@ -19,7 +19,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-FFD43B?logo=PyCharm&logoColor=white)
 
 ### Lenguajes
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
