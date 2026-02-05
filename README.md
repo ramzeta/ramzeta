@@ -1,16 +1,98 @@
 
-<h2 align="center">
-  👋 ¡Hola! Soy ramzeta, un desarrollador Full Stack / Arquitecto 🇪🇸 enfocado en sistemas robustos y arquitectura limpia 🚀
-</h2>
+<h1 align="center">
+  👋 ¡Hola! Soy ramzeta
+</h1>
 
-- 🔭 Actualmente estoy trabajando en una aplicación compleja utilizando Spring Boot, microservicios, CI/CD, y seguridad de alto nivel.
-- 🌱 Me estoy especializando en características avanzadas de Java y Spring, pruebas con JUnit, y control de arquitectura distribuida.
-- 👯 Busco colaborar en proyectos exigentes con enfoque en backend, frontend moderno y arquitectura escalable.
-- 🤔 Estoy perfeccionando mis habilidades en arquitectura de microservicios, DDD, CQRS y seguridad avanzada en sistemas distribuidos.
-- 💬 Pregúntame sobre Java, Spring, arquitectura, seguridad, testing, Angular, Node.js y React.
-- 📫 Contacto: ramiroperezsanz13@gmail.com | LinkedIn: Ramiro Developer
-- 😄 Pronombres: He/Him
-- ⚡ Fun fact: Me encanta resolver problemas complejos con estructuras limpias y aplicar patrones que escalen bien.
+<h3 align="center">
+  Full Stack Developer · Software Architect · Multi-Agent Systems Researcher 🇪🇸
+</h3>
+
+<p align="center">
+  Diseño sistemas robustos, arquitectura limpia y orquesto agentes autónomos que colaboran para resolver problemas complejos 🚀
+</p>
+
+---
+
+### 🧠 Sobre mí
+
+Soy un desarrollador e investigador enfocado en la intersección entre **arquitectura de software distribuida** y **sistemas multiagente con IA**. Creo que el futuro del software pasa por agentes autónomos que se coordinan, se corrigen entre sí y escalan de forma inteligente.
+
+---
+
+### 🔭 En qué estoy trabajando
+
+- **Aplicación empresarial compleja** con Spring Boot, microservicios, CI/CD y seguridad de alto nivel.
+- **Framework de orquestación multiagente** — diseño de sistemas donde múltiples agentes de IA colaboran bajo patrones de coordinación (supervisor, consenso, voting, debate).
+- **Worker Systems con IA** — pipelines de procesamiento distribuido donde workers autónomos ejecutan, validan y refinan tareas en paralelo con retroalimentación en bucle.
+- **Investigación en IOA (Internet of Agents)** — exploración de protocolos de comunicación inter-agente, descubrimiento dinámico de capacidades y composición automática de flujos de trabajo.
+
+---
+
+### 🌱 Áreas de especialización e investigación
+
+| Dominio | Tecnologías & Conceptos |
+|---|---|
+| **Backend & Arquitectura** | Java, Spring Boot, Microservicios, DDD, CQRS, Event Sourcing |
+| **Frontend Moderno** | Angular, React, Node.js, TypeScript |
+| **Multi-Agent Systems** | LangGraph, CrewAI, AutoGen, Swarm, Agent Protocol |
+| **Worker & Task Orchestration** | Celery, Temporal, Bull, sistemas de colas distribuidas |
+| **IOA & Agent Communication** | A2A Protocol (Google), MCP (Anthropic), tool-use patterns, agent registries |
+| **LLM Engineering** | Prompt engineering, RAG, function calling, chain-of-thought, self-reflection loops |
+| **Seguridad & Observabilidad** | OAuth2, JWT, mTLS, OpenTelemetry, guardrails para agentes |
+| **Infra & CI/CD** | Docker, Kubernetes, GitHub Actions, Terraform |
+
+---
+
+### 🤖 Mi visión sobre sistemas multiagente
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  Supervisor  │────▶│   Worker A   │────▶│  Validator   │
+│   Agent      │     │  (Research)  │     │   Agent      │
+└──────┬───────┘     └─────────────┘     └──────┬───────┘
+       │             ┌─────────────┐            │
+       └────────────▶│   Worker B   │◀───────────┘
+                     │  (Synthesis) │   feedback loop
+                     └──────┬──────┘
+                            │
+                     ┌──────▼──────┐
+                     │   Output     │
+                     │  Aggregator  │
+                     └─────────────┘
+```
+
+> Diseño arquitecturas donde los agentes no solo ejecutan — **razonan, debaten, validan y se auto-corrigen** antes de entregar resultados. La clave está en patrones de orquestación que combinan lo mejor de la ingeniería de software distribuida con la inteligencia emergente de LLMs.
+
+---
+
+### 🔬 Líneas de investigación activas
+
+- **Orquestación jerárquica vs. enjambre** — cuándo usar un supervisor centralizado vs. coordinación peer-to-peer entre agentes.
+- **Self-healing agent workflows** — sistemas que detectan fallos, replanifican y reasignan tareas automáticamente.
+- **Agent memory & context sharing** — gestión eficiente de memoria compartida y contexto entre workers de larga ejecución.
+- **Human-in-the-loop patterns** — diseño de puntos de intervención humana en pipelines autónomos sin romper el flujo.
+- **Evaluación y benchmarking de agentes** — métricas para medir fiabilidad, coste, latencia y calidad de sistemas multiagente.
+
+---
+
+### 💬 Pregúntame sobre
+
+`Java` `Spring` `Microservicios` `Arquitectura distribuida` `Seguridad` `Testing` `Angular` `React` `Node.js` `Sistemas multiagente` `LLM orchestration` `Worker pipelines` `Agent protocols` `RAG` `DDD` `CQRS`
+
+---
+
+### 📫 Contacto
+
+- ✉️ **Email:** ramiroperezsanz13@gmail.com
+- 🔗 **LinkedIn:** [Ramiro Developer](https://linkedin.com)
+- 😄 **Pronombres:** He/Him
+
+---
+
+### ⚡ Fun fact
+
+> Me encanta resolver problemas complejos con estructuras limpias. Últimamente, mis "estructuras" incluyen agentes que discuten entre sí hasta llegar a la mejor solución — como un equipo de arquitectos que nunca duerme.
+
 
 ---
 
