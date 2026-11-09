@@ -40,7 +40,7 @@ Soy un desarrollador e investigador enfocado en la intersección entre **arquite
 ## 🤖 Mi visión sobre sistemas multiagente
 
 <p align="center">
-  <img src="assets/agents.svg" width="100%" alt="El Supervisor envía trabajo a Worker A (Research) y a Worker B (Synthesis). Worker A pasa su resultado al Validator, que devuelve feedback a Worker B. Worker B entrega al Output Aggregator.">
+  <img src="assets/agents.svg" width="100%" alt="El Supervisor planifica y envía trabajo a Worker A (Research), que pasa su resultado a Worker B (Synthesis). El Validator revisa la síntesis: si la aprueba, va al Output Aggregator; si la rechaza, devuelve feedback al Supervisor para replanificar.">
 </p>
 
 > Diseño arquitecturas donde los agentes no solo ejecutan — **razonan, debaten, validan y se auto-corrigen** antes de entregar resultados. La clave está en patrones de orquestación que combinan lo mejor de la ingeniería de software distribuida con la inteligencia emergente de LLMs.
