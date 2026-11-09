@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
+  <title id="t">¡Hola! Soy ramzeta</title>
+  <desc id="d">Banner con una red de agentes conectados a un supervisor central.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090d1f"/>
+      <stop offset=".55" stop-color="#11183a"/>
+      <stop offset="1" stop-color="#1b1147"/>
+    </linearGradient>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset=".5" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="380" rx="22"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .link { fill: none; stroke: #8ea2ff; stroke-opacity: .28; stroke-width: 1.6; }
+    .pulse { fill: none; stroke: url(#brand); stroke-width: 3.2; stroke-linecap: round; stroke-dasharray: 7 93; animation: flow 3.2s linear infinite; }
+    .p2 { animation-delay: -.7s; } .p3 { animation-delay: -1.4s; } .p4 { animation-delay: -2.1s; } .p5 { animation-delay: -2.7s; }
+    .ring { fill: none; stroke: #93c5fd; stroke-width: 1.6; transform-box: fill-box; transform-origin: center; animation: ring 3.2s ease-out infinite; }
+    .blink { animation: blink 2.4s ease-in-out infinite; }
+    @keyframes flow { from { stroke-dashoffset: 100; } to { stroke-dashoffset: 0; } }
+    @keyframes ring { 0% { transform: scale(.8); opacity: .75; } 100% { transform: scale(1.75); opacity: 0; } }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: .45; } }
+    @media (prefers-reduced-motion: reduce) {
+      .pulse { animation: none; opacity: 0; }
+      .ring { animation: none; opacity: 0; }
+      .blink { animation: none; }
+    }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <circle cx="930" cy="170" r="330" fill="url(#glowA)"/>
+    <circle cx="120" cy="360" r="320" fill="url(#glowB)"/>
+
+    <!-- Texto -->
+    <text x="72" y="118" fill="#a5b4fc" font-size="27" font-weight="600" letter-spacing="1.5">¡HOLA! SOY</text>
+    <text x="68" y="212" fill="url(#brand)" font-size="104" font-weight="800" letter-spacing="-2.5">ramzeta</text>
+    <text x="72" y="268" fill="#e5e9ff" font-size="29" font-weight="500">Sistemas robustos · Arquitectura limpia</text>
+    <text x="72" y="310" fill="#aab4dc" font-size="29" font-weight="400">Agentes autónomos que colaboran</text>
+
+    <!-- Conexiones de la red -->
+    <g class="link">
+      <path d="M925 190 L785 92"/>
+      <path d="M925 190 L1075 88"/>
+      <path d="M925 190 L1122 232"/>
+      <path d="M925 190 L998 322"/>
+      <path d="M925 190 L772 298"/>
+      <path d="M785 92 L1075 88" stroke-dasharray="3 8"/>
+      <path d="M1075 88 L1122 232" stroke-dasharray="3 8"/>
+      <path d="M1122 232 L998 322" stroke-dasharray="3 8"/>
+      <path d="M998 322 L772 298" stroke-dasharray="3 8"/>
+      <path d="M772 298 L785 92" stroke-dasharray="3 8"/>
+    </g>
+
+    <!-- Mensajes entre agentes -->
+    <path class="pulse" pathLength="100" d="M925 190 L785 92"/>
+    <path class="pulse p2" pathLength="100" d="M925 190 L1075 88"/>
+    <path class="pulse p3" pathLength="100" d="M925 190 L1122 232"/>
+    <path class="pulse p4" pathLength="100" d="M925 190 L998 322"/>
+    <path class="pulse p5" pathLength="100" d="M925 190 L772 298"/>
+
+    <!-- Workers -->
+    <g stroke-width="2.4">
+      <circle cx="785" cy="92" r="21" fill="#10243a" stroke="#5eead4"/>
+      <circle cx="1075" cy="88" r="21" fill="#13224a" stroke="#60a5fa"/>
+      <circle cx="1122" cy="232" r="21" fill="#221a52" stroke="#c084fc"/>
+      <circle cx="998" cy="322" r="21" fill="#13224a" stroke="#60a5fa"/>
+      <circle cx="772" cy="298" r="21" fill="#10243a" stroke="#5eead4"/>
+    </g>
+    <g class="blink">
+      <circle cx="785" cy="92" r="7" fill="#5eead4"/>
+      <circle cx="1075" cy="88" r="7" fill="#60a5fa"/>
+      <circle cx="1122" cy="232" r="7" fill="#c084fc"/>
+      <circle cx="998" cy="322" r="7" fill="#60a5fa"/>
+      <circle cx="772" cy="298" r="7" fill="#5eead4"/>
+    </g>
+
+    <!-- Supervisor -->
+    <circle class="ring" cx="925" cy="190" r="50"/>
+    <path d="M925 136 L972 163 L972 217 L925 244 L878 217 L878 163 Z" fill="#171c4d" stroke="url(#brand)" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M925 164 L948 177 L948 203 L925 216 L902 203 L902 177 Z" fill="url(#brand)"/>
+  </g>
+</svg>
